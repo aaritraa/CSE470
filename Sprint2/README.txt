@@ -7,4 +7,4 @@ Group Members:
 	4. Nafisa Mehreen: 23241114
 
 Selected Project: PET CONNECT: A Community for Pet Owners
-Class diagram link: 
+Class diagram link:  https://drive.google.com/file/d/1XIhxtxMaQHGhoMZLHzGcLH2Veq9pXsOT/view?usp=sharing 
