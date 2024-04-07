@@ -1,0 +1,49 @@
+nav {
+    background-color: hsl(0, 0%, 97%);
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 1em 2em;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+.nav-title{
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    color: rgb(1, 129, 67);
+}
+
+.nav-items{
+    display: flex;
+}
+
+/*.nav-item{
+    margin: 0.1em 0.5em;
+    padding: 0.7em;
+}*/
+
+.nav-link{
+    font-size: 17px;
+    background-color: rgb(233, 233, 233);
+    font-weight: bold;
+    border-radius: 7px;
+    margin: 0.1em 0.5em;
+    padding: 0.7em;
+}
+
+.nav-item a:hover{
+    /*background-color: hsl(25, 100%, 58%);*/
+    background-color: hsl(120, 100%, 22%);
+    color: white;
+    border-radius: 7px;
+}
+
+.active{
+    background-color: rgb(91, 235, 108);
+    font-weight: bold;
+    border-radius: 7px;
+}
