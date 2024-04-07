@@ -1,3 +1,1 @@
-# CSE470
-
-CSE470 (Software Engineering) Project Repository
+Pet-Connect_readme.md
